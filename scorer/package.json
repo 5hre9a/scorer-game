@@ -4,7 +4,7 @@
   "description": "Add a game of tetris to your site",
   "main": "dist/scorer.jquery.min.js",
   "dependencies": {
-    "jquery": "~1.11.3"
+    "jquery": "~3.5.0"
   },
   "scripts": {
     "build": "gulp build"
